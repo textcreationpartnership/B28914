@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to a paper entituled An answer to the sugar-refiners paper.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28914</idno><idno type="EEBO-CITATION">99886002</idno>
+  <idno type="VID">186365</idno>
+  <idno type="EEBO-PROQUEST">2240899957</idno>
+  
+            <idno type="STC">Wing R1052B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[169]</idno>
+            <idno type="STC">ESTC R225276</idno>
+            <idno type="PROQUEST">ocm99886002</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886002e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186365)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[162])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to a paper entituled An answer to the sugar-refiners paper.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sugar --  Manufacture and refining --  Early works to 1800.</term>
+               <term type="topical_term">Sugarcane industry --  Early works to 1800.</term>
+               <term type="topical_term">Sugar --  Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186365:1"/>
+            <pb n="1" facs="tcp:186365:1"/>
+            <head>A REPLY To a Paper Entituled An Answer to the Sugar-Refiners Paper.</head>
+            <p>IT has been too common with those who value not what they say, whether true or false, so it answers their end; to supply the want of Argument with false Accusations and opprobrious Terms, and to endeavour to stifle the Truth with Confusion and Incoherency: Yet tho' the Vulgar may be so misled, I wonder the Answerer should think to impose upon the Wisdom of Parliament by such trifling: But if he have not a Talent to do otherwise, that cannot be helpt, only then he should forbear coming out in Print.</p>
+            <p>Several things he affirms which are false in Fact, As that the Sugar-Refiners contriv'd and procur'd the laying on the New Duty on Sugar in King <hi>James</hi>'s Reign, that the <hi>Barbadoes</hi> White Sugar is cleaner and better purg'd than our re<g ref="char:EOLhyphen"/>fin'd Sugar, and that one Pound of the former sweetens almost twice as much as the latter, <hi>&amp;c.</hi> and all along his Arguments are of no Weight, or conclude against himself, as I shall briefly show.</p>
+            <p>He says, 'Tis the Sugar-Bakers of <hi>London</hi> and <hi>Bristol</hi> that make all this noise, but it is known there are Sugar-houses in <hi>Newcastle, York, Chester, Leverpool, Worcester, Plimouth, Exeter,</hi> &amp;c. and would be many more every where if the Manufacture were encourag'd, as it is highly the Interest of <hi>England</hi> so to do. But it is true, <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Bristol</hi> are the chief Ports for Exportation of that as well as other Com<g ref="char:EOLhyphen"/>modities, but when <hi>Exeter</hi> Petitions for the Improvement of their Woolen Manu<g ref="char:EOLhyphen"/>facture, or <hi>Norwich</hi> for their Stuffs, or <hi>Sudbury</hi> for their Sayes, or the Weavers in <hi>London</hi> for their Silks, according to this Gentleman's Argument, 'tis not the general Interest of <hi>England;</hi> and he would think it enough to overthrow their Petitions, by saying 'tis <hi>Exeter</hi> makes all this Noise, or <hi>Norwich,</hi> or <hi>Sudbury,</hi> or <hi>London</hi> that makes all this Noise. Indeed if Noise only would answer Reason, this Gen<g ref="char:EOLhyphen"/>tleman may answer any thing, for it is little else he uses: He seems angry that we say our Manufacture is of antient standing, and yet in answer says nothing but to prove that it is so, and says himself that there were Refining-Houses in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> before our Plantations fell to making of Sugar. That the Sugar Refiners here employ great numbers of People he does not deny, but says, that for one Man they employ, the Plantations employ an hundred, and would here and in other places insinuate that what we seek is against the Interest of the Plantati<g ref="char:EOLhyphen"/>ons, which is the blind by which some few concerned in a small part only of one of the Plantations would mislead such as take things upon their word, with<g ref="char:EOLhyphen"/>out examining and considering the matter; for the Sugar-Plantations are <hi>Jamaica, Nevis, Antego, Monseratt,</hi> and St. <hi>Christophers</hi> as well as <hi>Barbadoes;</hi> and of <hi>Barbadoes</hi> it self the greatest part do not clay their Sugars, and what is the Interest of the Sugar-Refiners here, is plainly the interest of all the Sugar-Plantations, unless
+<pb n="2" facs="tcp:186365:2"/>that small part of <hi>Barbadoes</hi> which clay their Sugars, for the more the Refiners here are encouraged, the greater price and brisker Market will the Muscovado Sugar always find here, and it is entirely the Interest of <hi>England</hi> to have the Pro<g ref="char:EOLhyphen"/>duct of their Plantations manufactured here at home by our own People, who thereby encrease the Strength and Wealth of <hi>England,</hi> eating and wearing the product of their own Country, rather than by Negroes abroad, the great Num<g ref="char:EOLhyphen"/>ber whereof in the Plantations do rather hazard than add to their safety.</p>
+            <p>The next thing he attacques is, what is said in the Sugar-Refiners Paper, <hi>That for<g ref="char:EOLhyphen"/>merly they exported great quantities of White Sugars, which has for ten Years past been taken away by Forreigners.</hi> This he does not deny, and in Answer declares, That the Su<g ref="char:EOLhyphen"/>gar-Refiners contrived, promoted and procured the High Duty upon Sugar in K. <hi>James</hi>'s Reign, which is utterly false in fact; but some People think that the con<g ref="char:EOLhyphen"/>fident affirmation of a thing will pass for proof: And it is absurd to imagine, that they should contrive and promote a thing so prejudicial to themselves, which did immediately destroy part of their own Manufactury, by taking away their Forreign Trade. So that all his Reflections from that Head must fall upon himself.</p>
+            <p>He says Loaf-Sugar from the Plantations pays 16 <hi>s. per</hi> C. w<seg rend="sup">t</seg>. and by that means the Sugar-Refiners have got a Monopoly of that sort of Sugar; and so by thrust<g ref="char:EOLhyphen"/>ing in there, and in other parts of his Paper the odious and frightful term <hi>Monopoly,</hi> (tho' he seems not to understand what it means) he thinks he has given them their Deaths-wound. I thought Monopoly had properly signified the buying, or sell<g ref="char:EOLhyphen"/>ing, or making any Commodity by one Man, or one stock only; but by this Gentleman's quaint way of arguing, what is done in <hi>England</hi> only is a Monopoly, tho' all the People in <hi>England</hi> are or may be concerned separately and apart there<g ref="char:EOLhyphen"/>in, which is too gross to take place. It is true, the Parliament imposed 16 <hi>s. per</hi> C. w<seg rend="sup">t</seg>. on Loaf-Sugar fom the Plantations, and no doubt therein consider'd, that it was most beneficial to <hi>England</hi> to manufacture their own Commodities in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by their own People, who add to their own strength, and spend their own Product, as before has been said.</p>
+            <p>And now the Answerer quits all Modesty, when he affirms so notorious a Fal<g ref="char:EOLhyphen"/>sity, that the <hi>Barbadoes</hi> Refin'd Sugar is the best in the World, and the <hi>English</hi> refin'd Sugar the worst in the World. And elsewhere he says, that the White Su<g ref="char:EOLhyphen"/>gars made in the Plantations are cleaner, they working by Clay and Water, and we by Fire. And again, That the Plantation White Sugar goes almost twice as far, sweetens almost twice as much, and its relish is much more delicious.</p>
+            <p>As to the difference between our Refining and their Claying, it is true, theirs is done with Clay and Water, and ours is clarify'd with Eggs, and afterwards strain'd thro' Broad cloth, and so refin'd, as he says, with Fire, which he will not allow to Purge as well as their Clay and Lime; wherein he shews himself as bad a Philo<g ref="char:EOLhyphen"/>sopher as his arguing shows him a Logician, or indeed a Man of common sense; for all the World knows, that nothing purifies or refines so well as Fire, and the goodness and cleanness of our Refin'd Sugar is seen by its constant use in Thea, which would soonest show its Impurity, if any were. And instead of being weak<g ref="char:EOLhyphen"/>er and fowler than <hi>Barbadoes</hi> White Sugar, it is quite the contrary, as is undeniably evinc'd by the Confectioners, and all others who require the strongest and clean<g ref="char:EOLhyphen"/>est Sugar for their Candying and other uses, and for that Reason they prefer and use our Refin'd Sugar before the <hi>Barbadoes</hi> White Sugar. It is true, we must make and sell a courser sort of Sugar to them that desire it, and it cannot be expected that a low price should purchase Sugar of the same goodness as a higher price.</p>
+            <pb n="3" facs="tcp:186365:2"/>
+            <p>What he affirms of the <hi>French</hi>'s refining their Sugar in their Plantations, is o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the same Complexion with his other Affirmations, that is, not true, for they bring home their Sugars brown, and refine it at home, as the <hi>Dutch</hi> do: Perhaps they may have a Refining-House or two in their Islands, as we have at <hi>Nevis,</hi> to re<g ref="char:EOLhyphen"/>fine Sugar to serve the use of those Islands, knowing it to be better, and more wholsome, and clean, when refin'd by Fire, than what is only Clay'd, tho' this Gentleman seems ignorant of it: And the <hi>French</hi> and <hi>Dutch</hi> understand their own Interest so well, as to keep on in that course.</p>
+            <p>The Answerer says, 3 C. w<seg rend="sup">t</seg>. of Muscovado, when refin'd, makes 1 C. w<seg rend="sup">t</seg>. of White, and a good deal more; he should have told what he means by a good deal more: It may be he may call a pound or two a good deal more, which agrees well enough with his arguing in other things.</p>
+            <p>And now he comes to the point, on which, as he says, the Hinge of the Case turns, and that is, that the <hi>English</hi> Refiners paying the Duty on Muscovado in<g ref="char:EOLhyphen"/>wards, and the half Duty being drawn back on Exportation, the Forreigners pay but the Forreigners. This the Answerer denies in Words, but proves it in his own Arguments; for if, as he says, the Forreigner pays the dearer for the Sugar he buys 9 <hi>d. per</hi> C. w<seg rend="sup">t</seg>. in lieu of so much he draws back on Exportation, does not the <hi>English</hi> Refiner by the same reason pay 1 <hi>s.</hi> 6 <hi>d. per</hi> C. w<seg rend="sup">t</seg>. the dearer for the Sugar he buys, because the Importer pays so much Duty at Importation. This is plain, the Forreigner pays for 1 C. w<seg rend="sup">t</seg>. of Sugar 29 <hi>s.</hi> 3 <hi>d.</hi> and for the same C. w<seg rend="sup">t</seg>. of Sugar the <hi>English</hi> Refiner pays 30 <hi>s.</hi> has not the Forreigner it then 9 <hi>d.</hi> cheaper than we? and in 3 C. w<seg rend="sup">t</seg>. of brown Sugar, which goes to make 1 C. w<seg rend="sup">t</seg>. of White, is not that 2 <hi>s.</hi> 3 <hi>d.</hi> differerence in 1 C. w<seg rend="sup">t</seg>. of White, which the For<g ref="char:EOLhyphen"/>reigner has advantage in working up and refining our brown Sugar? and whe<g ref="char:EOLhyphen"/>ther then the Exporter of Sugars refin'd in <hi>England</hi> ought not to draw back as much as if the same were exported brown? let any reasonable Man judge: And this would be the interest of all the Plantations, and that part of <hi>Barbadoes</hi> which makes White are not at all concern'd in it, unless it be to their Profit; for what does it signifie to them (unless, as has been said, to mend the Market for theirs) whether the brown Sugar be exported brown, or whether it be made white here, and then exported.</p>
+            <p>As to what the Answerer says about Molosses, it would be the interest of all the Plantations if none came hither from thence, their Sugar would yield the better price, and they have ways enough to dispose of it by making Rum, and sending it to <hi>Virginia, Maryland, New-England, Carolina,</hi> &amp;c. whereas here is a very high Duty impos'd upon Spirits drawn from Molosses; and there can no reason be given, why Molosses should come from thence any more than Rum, which is made of Molosses, and cannot be imported here.</p>
+            <p>The laying any New Duty upon Sugars, we never did, nor do desire, but it was necessary in giving the Parliament and account of this matter to state the Fact truly before them, and we have and shall prefer Truth, and the general interest of the Kingdom, before our own particular Advantage.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
